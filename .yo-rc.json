@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.myapp.developer",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "5.6.0",
+    "applicationType": "monolith",
+    "baseName": "gallery",
+    "packageName": "com.myapp.developer",
+    "packageFolder": "com/myapp/developer",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzkwOTYxZGMyYmYzYWI4ODEwYmIxZWQ3YWY2YjM1ODJkYzg2MmE5MTM1ZDZjNTUyOTA5YmY1MDMwMGY3MjNlYmNmZDIyNzM4Njg1MjczZTAyNTFiMDRmYWMwYWM1NTllNzBkZjM1OGIwNzVjYjQ0ZTQwYjg2NGQ1NjQ3ZDE3ZWI=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "pt-br"
+    ]
+  }
+}
