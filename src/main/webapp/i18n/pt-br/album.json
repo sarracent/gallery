@@ -1,0 +1,24 @@
+{
+  "galleryApp": {
+    "album": {
+      "home": {
+        "title": "Albums",
+        "createLabel": "Criar novo Album",
+        "createOrEditLabel": "Criar ou editar Album"
+      },
+      "created": "Um novo Album foi criado com o identificador {{ param }}",
+      "updated": "Um Album foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Album foi deletado com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Album {{ id }}?"
+      },
+      "detail": {
+        "title": "Album"
+      },
+      "title": "Title",
+      "description": "Description",
+      "created": "Created",
+      "user": "User"
+    }
+  }
+}
